@@ -8,10 +8,11 @@
 <a href="https://www.linkedin.com/in/linderhassinger/">
   <img align="left" alt="Linder Hassinger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/linder3hs/">
+<a href="https://www.instagram.com/linder3hs_dev/">
   <img align="left" alt="linder3hs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<br />
 <br />
 
 Hi, I'm Linder Hassinger, a Full Stack Developer 🚀 from Peru.
