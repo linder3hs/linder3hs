@@ -22,10 +22,10 @@ Hi, I'm Linder Hassinger, a Full Stack Developer 🚀 from Peru.
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [CuikHotels](https://www.cuikhotels.shop/);
-- 🌱 I’m currently learning CoffeeScript. 
+- 🌱 I’m currently learning CoffeeScript; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: linderhassinger00@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
+- 📝[Resume](https://linderhassinger.info)
 
 **Languages and Tools:**  
 
