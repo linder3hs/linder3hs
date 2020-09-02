@@ -21,11 +21,12 @@ Hi, I'm Linder Hassinger, Lead Software Developer 🚀.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [CuikHotels](https://www.cuikhotels.shop/);
-- 🌱 I’m currently learning CoffeeScript; 
+- 👨🏽‍💻  I’m currently working on [CuikHotels](https://www.cuikhotels.shop/);
+- 🌱  I’m currently learning CoffeeScript; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: linderhassinger00@gmail.com;
-- 📝[Resume](https://linderhassinger.info)
+- 📫  How to reach me: linderhassinger00@gmail.com;
+- 📝 [Resume](https://linderhassinger.info)
+
 
 **Languages and Tools:**  
 
