@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Hi, I'm Linder Hassinger, a Full Stack Developer 🚀 from Peru.
+Hi, I'm Linder Hassinger, a Lead Software Developer 🚀.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
