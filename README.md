@@ -17,18 +17,17 @@
 
 Hi, I'm Linder Hassinger, Lead Software Developer 🚀.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif" />
+
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently working on [CuikHotels](https://www.cuikhotels.shop/);
-- 🌱  I’m currently learning CoffeeScript; 
+- 🌱  I’m currently learning Typescript;
 - 💬 Ask me about anything, I am happy to help;
 - 📫  How to reach me: linderhassinger00@gmail.com;
 - 📝 [Resume](https://linderhassinger.info)
 
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -38,8 +37,6 @@ Hi, I'm Linder Hassinger, Lead Software Developer 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://victorroblesweb.es/wp-content/uploads/2019/10/laravel-6.png"></code>
-
-
 
 ![linder3hs github stats](https://github-readme-stats.vercel.app/api?username=linder3hs&show_icons=true&hide_border=true)
 
