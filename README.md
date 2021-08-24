@@ -17,7 +17,7 @@
 
 Hi, I'm Linder Hassinger, Lead Software Developer 🚀.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif" />
+<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif" /> -->
 
 **Talking about Personal Stuffs:**
 
