@@ -43,7 +43,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
 
- <a href="https://github.com/linder3hs"><img alt="Linder Hassinger Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Linder%Hassinger's%20Contribution%20Graph&theme=react-dark" /></a>
+ <a href="https://github.com/linder3hs"><img alt="Linder Hassinger Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&theme=react-dark" /></a>
 
 
 <a href="https://twitter.com/linder3hs">
