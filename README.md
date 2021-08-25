@@ -10,7 +10,7 @@
 <br/>
 
 ## 🔥 Languages
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linder3hs&hide=TSQL&theme=algolia"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linder3hs&layout=compact&hide=TSQL&theme=algolia"></p>
 
 <a href="https://twitter.com/linder3hs">
   <img align="left" alt="Linder Hassinger | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
