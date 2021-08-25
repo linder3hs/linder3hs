@@ -1,4 +1,5 @@
-### Hey ✌🏻, I'm [Linder Hassinger!](https://linderhassinger.info/) 
+<p align="center">### Hey ✌🏻, I'm [Linder Hassinger!](https://linderhassinger.info/) </p>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <br/>
 
