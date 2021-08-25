@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi , I'm Linder Hassinger <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Lead+Software+Developer;Full+Stack+Developer;Mobile Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
+
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 ### 🔥 Streak Stats
@@ -43,18 +41,20 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
 
+### ⚡️ Recent GitHub Activity
  <a href="https://github.com/linder3hs"><img alt="Linder Hassinger Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=linder3hs&theme=react-dark" /></a>
 
 
-<a href="https://twitter.com/linder3hs">
-  <img align="left" alt="Linder Hassinger | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/linderhassinger/">
-  <img align="left" alt="Linder Hassinger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/linder3hs_dev/">
-  <img align="left" alt="linder3hs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+### 🧑🏼‍💻 Let's Connect
+<p align="center">
+  <a href="https://linderhassinger.info/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:linderhassinger00@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/linder3hs"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/linderhassinger"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.youtube.com/channel/UCPAg4A1jRtkY3lPdGKGS2Vg"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+	
+</p>
+
 
 
 
