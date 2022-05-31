@@ -4,7 +4,9 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 ### 🪚 Detail
-[![trophy](https://github-profile-trophy.vercel.app/?username=linder3hs&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=linder3hs&theme=onedark" />
+</p>
 
 
 
