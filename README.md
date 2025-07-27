@@ -1,53 +1,73 @@
+# Hi there, I'm Linder Hassinger 👋
 
-<h1 align="center">Hi , I'm Linder Hassinger <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-
-### 🪚 Detail
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=linder3hs&theme=onedark" />
-</p>
+Senior Software Developer
 
 
+## 📫 How to reach me
 
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=linder3hs&theme=algolia" alt="linder3hs"  /></p>
+- 🌐 Website: [https://linder-hassinger.vercel.app/](https://linder-hassinger.vercel.app/)
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/linder3hs)
+- 📧 Email: [linder3hs@example.com](mailto:linder3hs@example.com)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linder3hs&layout=compact&theme=algolia"></p>
+## 📊 GitHub Stats
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=linder3hs&count_private=true&show_icons=true&&theme=algolia&include_all_commits=true" width="400"></p> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=linder3hs&theme=default&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="400" height="200" />
+</div>
 
+## 🚀 Languages and Tools
 
-### 🛠 &nbsp;Tech Stack
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript" style="margin: 4px;" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/npm/simple-icons@v11/typescript.svg'" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript" style="margin: 4px;" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/npm/simple-icons@v11/javascript.svg'" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" title="HTML" style="margin: 4px;" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/npm/simple-icons@v11/html5.svg'" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python" style="margin: 4px;" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/npm/simple-icons@v11/python.svg'" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" title="CSS" style="margin: 4px;" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/npm/simple-icons@v11/css3.svg'" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" title="Kotlin" style="margin: 4px;" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/npm/simple-icons@v11/kotlin.svg'" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" title="Swift" style="margin: 4px;" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/npm/simple-icons@v11/swift.svg'" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="40" height="40" title="Astro" style="margin: 4px;" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/npm/simple-icons@v11/astro.svg'" />
+</div>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=1075C2)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linder3hs&theme=default&layout=compact&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" width="400" height="200" />
+</div>
 
-### ⚡️ Recent GitHub Activity
- <a href="https://github.com/linder3hs"><img alt="Linder Hassinger Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=linder3hs&theme=react-dark" /></a>
+## 📈 Contribution Graph
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=linder3hs&theme=default&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" height="300" />
+</div>
 
-### 🧑🏼‍💻 Let's Connect
-<p align="center">
-  <a href="https://linderhassinger.info/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:linderhassinger00@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/linder3hs"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/linderhassinger"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.youtube.com/channel/UCPAg4A1jRtkY3lPdGKGS2Vg"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
-</p>
+## ⭐ Top Starred Projects
 
+### [Tech-Conf](https://github.com/linder3hs/Tech-Conf)
+Conferencias de Software - Compartimos nuestro conocimiento con todo el mundo.
+⭐ 42 | 🍴 7 | 💻 TypeScript
 
+### [codigo-g12](https://github.com/linder3hs/codigo-g12)
+⭐ 22 | 🍴 1 | 💻 HTML
 
+### [codigo-15](https://github.com/linder3hs/codigo-15)
+Codigo 15
+⭐ 14 | 🍴 0 | 💻 JavaScript
 
+### [ts-tdd](https://github.com/linder3hs/ts-tdd)
+⭐ 11 | 🍴 0 | 💻 TypeScript
+
+### [ia-images-ts](https://github.com/linder3hs/ia-images-ts)
+⭐ 11 | 🍴 0 | 💻 TypeScript
+
+### [codigo-18-frontend](https://github.com/linder3hs/codigo-18-frontend)
+⭐ 9 | 🍴 1 | 💻 HTML
+
+## 🚀 GitHub Journey
+
+- 📅 **Joined GitHub:** 2016
+- 🎂 **Years on GitHub:** 9 years
+- 📚 **Public Repositories:** 260
+- 👥 **Followers:** 331 | **Following:** 16
+- 📍 **Location:** Lima, Perú
+- 🏢 **Company:** Wot Dev
+
+---
+⭐️ [linder3hs](https://github.com/linder3hs)
