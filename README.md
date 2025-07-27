@@ -7,7 +7,7 @@ Senior Software Developer
 
 - 🌐 Website: [https://linder-hassinger.vercel.app/](https://linder-hassinger.vercel.app/)
 - 💼 LinkedIn: [Connect with me](https://linkedin.com/in/linder3hs)
-- 📧 Email: [linder3hs@example.com](mailto:linder3hs@example.com)
+- 📧 Email: [linderhassinger00@gmail.com](mailto:linderhassinger00@gmail.com)
 
 ## 📊 GitHub Stats
 
