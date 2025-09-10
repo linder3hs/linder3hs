@@ -5,7 +5,7 @@ Senior Software Developer
 
 ## 📫 How to reach me
 
-- 🌐 Website: [https://linder-hassinger.vercel.app/](https://linder-hassinger.vercel.app/)
+- 🌐 Website: [https://www.linderhassinger.dev/](https://www.linderhassinger.dev/)
 - 💼 LinkedIn: [Connect with me](https://linkedin.com/in/linderhassinger/)
 - 📧 Email: [linderhassinger00@gmail.com](mailto:linderhassinger00@gmail.com)
 
